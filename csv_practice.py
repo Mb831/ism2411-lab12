@@ -1,3 +1,14 @@
+# Reflection 1:
+# Python and Excel can both organize and clean data.
+# Python is better for automating tasks and handling large files.
+# Excel is easier when you want to see and edit data directly.
+
+# Reflection 2:
+# A business could use an append-mode log to track daily sales.
+# Append mode adds new information without deleting previous records.
+# This helps the business keep a history of its sales.
+
+
 import csv
 
 # Exercise 2 - Read and print raw rows
